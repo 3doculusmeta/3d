@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="MusicChannel.hu" tvg-logo="https://i.imgur.com/pzU6FrQ.png" group-title="Music",1Music Channel Hungary (576p)
+http://1music.hu/1music.m3u8
+
+#EXTINF:-1 tvg-id="Musicu" tvg-logo="https://i.imgur.com/pzU6FrQ.png" group-title="Music",1Music Channel Hungary (576p)
+https://cdn.dzen.ru/vod/converted-video/vod-content/26/37/31/03/24/48/99/42/82/7/2be49d3e-9a0f-4116-a0ce-e715f381d615/kaltura/desc_6773c6c9a4b88d0cb45e0dc69db3b8c5/vR9_T_kYFLXs/ysign1=758def6f903e3ffbad12f652bd1b055620914bca99e7d6735e84bd1213752b95,abcID=967,from=zen,pfx,region=10000,sfx,ts=66877f76/manifest.mpd
